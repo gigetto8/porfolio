@@ -15,7 +15,7 @@
                 shortDesc: 'Un primo approccio al sistema hardware con le nostre mani',
                 fullDesc: "'Monta e Smonta' è un progetto educativo che insegna agli studenti come assemblare e disassemblare componenti hardware di un computer. L'obiettivo è fornire una comprensione pratica delle tecnologie che utilizziamo ogni giorno. Durante il progetto, gli studenti imparano a identificare i componenti principali di un computer, come la scheda madre, il processore, la RAM e il disco rigido, e a montarli correttamente.",
                 icon: 'fas fa-chess-board',
-                tech: ['cacciavite'],
+                tech: ['lavoro sul campo'],
                 year: '3° anno',
                 imageUrl: 'img/foto.jpg'                         // Nessuna immagine (placeholder)
             },
@@ -40,7 +40,7 @@
             'social': {
                 title: 'CNA',
                 shortDesc: 'Attività formativa al Tecnopolo',
-                fullDesc: 'Hanno spiegato in modo molto preciso il tema imprese, approfondendo sulle principali tipologie di contratti e i diritti e doveri dei lavoratori.',
+                fullDesc: 'Hanno spiegato in modo molto preciso il tema imprese, approfondendo sulle principali tipologie di contratti e i diritti e doveri dei lavoratori. Cio ha permesso di capire il mondo del lavoro rendendola un esperienza molto utile e da conservare nelle nostra testa',
                 icon: 'fas fa-users',
                 tech: ['lavoro','professioni'],
                 year: '4° anno',
@@ -51,14 +51,14 @@
                 shortDesc: 'Scoperta del settore IT',
                 fullDesc: 'Abbiamo incontrato i lavoratori professionisti di Polarity che ci hanno fatto apprendere il settore IT, le sue attività, i servizi offerti e il funzionamento di una azienda simile.',
                 icon: 'fas fa-shopping-cart',
-                tech: ['Vue.js', 'Vuex', 'Vite'],
+                tech: ['IT', 'lavoro', 'Vita'],
                 year: '4° anno',
                 imageUrl: 'img/polarity.jpg'          // 👈 Aggiunto
             },
             'ascolto': {
                 title: 'Ascolto project work',
                 shortDesc: 'Esposizione presentazione project work',
-                fullDesc: "Si è preso parte a una esposizione delle classi quinte incentrata a far comprendere, in primis, l'arte dell'insegnamento e a noi una nuova prospettiva.",
+                fullDesc: "Si è preso parte a una esposizione delle classi quinte incentrata a far comprendere, in primis, l'arte dell'insegnamento e a noi una nuova prospettiva. Questo ha reso molto più facile immaginarci il futuro",
                 icon: 'fas fa-shopping-cart',
                 tech: ['ascolto', 'insegnamento', 'Vita'],
                 year: '4° anno',
